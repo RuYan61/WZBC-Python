@@ -2,7 +2,7 @@
 @Python Interpreter: /opt/homebrew/bin/python3.11
 @Coding            : UTF-8
 @Time              : 2023/07/11 23:31
-@Author            : Y1560
+@Author            : ruyan
 @Software          : PyCharm
 @Python Project    : WZBC-Python
 @File              : T2.py
